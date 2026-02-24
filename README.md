@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am an **MSc Data Science student at the University of Bath**
+
 <!--
 **Narcissi6/Narcissi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
